@@ -1,0 +1,12 @@
+{
+  "BIRT_target":"Data/targets/BIRT/",
+  "ASPECTJ_target":"Data/targets/ASPECTJ/",
+  "ECLIPS_target":"Data/targets/ECLIPSE/",
+  "SWT_target":"Data/targets/SWT/",
+  "TOMCAT_target":"Data/targets/TOMCAT/",
+  "JDT_target":"Data/targets/JDT/",
+
+  "BIRT_pickle":"Data/pickles/BIRT/",
+
+  "experiment_csv1":""
+}
