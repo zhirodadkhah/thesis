@@ -1,12 +1,14 @@
 {
-  "BIRT_target":"Data/targets/BIRT/",
-  "ASPECTJ_target":"Data/targets/ASPECTJ/",
-  "ECLIPS_target":"Data/targets/ECLIPSE/",
-  "SWT_target":"Data/targets/SWT/",
-  "TOMCAT_target":"Data/targets/TOMCAT/",
-  "JDT_target":"Data/targets/JDT/",
+  "BIRT_source_file":"Data/sourceFiles/BIRT/",
+  "ASPECTJ_source_file":"Data/sourceFiles/ASPECTJ/",
+  "ECLIPSE_source_file":"Data/sourceFiles/ECLIPSE/",
+  "SWT_source_file":"Data/sourceFiles/SWT/",
+  "TOMCAT_source_file":"Data/sourceFiles/TOMCAT/",
+  "JDT_source_file":"Data/sourceFiles/JDT/",
 
   "BIRT_pickle":"Data/pickles/BIRT/",
 
-  "experiment_csv1":""
+  "experiment_location":"Data/experimental/",
+  "experiment_biz":"Data/experimental/biz_subset.json",
+  "experiment_user":"Data/experimental/tip_subset.json"
 }

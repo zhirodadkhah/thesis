@@ -5,7 +5,9 @@ class DB:
     :todo:
     """
     query = {
-        'all_cmmit_and_filenames': "SELECT commit, files from bug_and_files limit %s"
+        'all_commit_filenames': "SELECT commit, files from bug_and_files",
+        'limit_commit_filenames': "SELECT commit, files from bug_and_files limit %s",
+        'filenames_where_commit': "SELECT files from bug_and_files where commit= %s"
     }
     def __init__(self):
 
